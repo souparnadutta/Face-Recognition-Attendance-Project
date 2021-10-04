@@ -2,7 +2,7 @@
 This project can be used to take attendance via Face Recognition System.
 
 
-##Instructions
+## Instructions
 
 You can build your own database by adding images in the ImagesBasic folder.
 
